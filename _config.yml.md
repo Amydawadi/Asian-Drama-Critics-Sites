@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: null
 markdown: kramdown
 
 title: Asian Drama Hub
